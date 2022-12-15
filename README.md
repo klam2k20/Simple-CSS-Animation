@@ -1,0 +1,1 @@
+A simple HTML webpage to get started with CSS animations using the transform and transition CSS properties.
